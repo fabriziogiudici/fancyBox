@@ -10,7 +10,7 @@
 
     <groupId>it.tidalwave.northernwind</groupId>
     <artifactId>northernwind-fancyapps-fancyBox-2-fork</artifactId>
-    <version>4-SNAPSHOT</version>
+    <version>4</version>
     <packaging>jar</packaging>
     <name>NorthernWind Resources - fancyapps fancyBox 2 Fork</name>
 
@@ -22,7 +22,7 @@
         <connection>scm:git:git@github.com:fabriziogiudici/fancyBox.git</connection>
         <developerConnection>scm:git:git@github.com:fabriziogiudici/fancyBox.git</developerConnection>
         <url>https://github.com/fabriziogiudici/fancyBox</url>
-      <tag>HEAD</tag>
+      <tag>v2-fork-4</tag>
   </scm>
 
     <build>
